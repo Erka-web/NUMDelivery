@@ -1,2 +1,0 @@
-# NUMDelivery
-for web
